@@ -1,1 +1,1 @@
-# -Predictive-Modeling-of-Property-Values-in-Wake-County-NC
+# Predictive-Modeling-of-Property-Values-in-Wake-County-NC
